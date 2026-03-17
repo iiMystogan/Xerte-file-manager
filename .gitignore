@@ -1,0 +1,6 @@
+# SQLite Database
+database.sqlite
+
+# Uploads directory
+uploads/
+temp/
